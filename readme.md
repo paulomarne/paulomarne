@@ -33,13 +33,13 @@ I'm particularly interested in web development, artificial intelligence, and dat
 
 - 🔭 I’m currently working on **Building my web development and AI coding skills**
 
-- 🌱 I’m currently learning **Full stack web development with Next.js**
+- 🌱 I’m currently learning **AI LM Developer**
 
 <!--- 👨‍💻 All of my projects are available at [roshis's workspace](http://roshis.io)-->
 
-- 💬 Ask me about **Full-Stack Web Development**
+- 💬 Ask me about **Architect / Tech Lead / Developer AI**
 
-- 📫 How to reach me **rockyrd.12458@gmail.com**
+- 📫 How to reach me **paulomarne@gmail.com**
 
 <!--- 📄 Know about my experiences [my experiences](http://roshis.io/#resume)-->
 
