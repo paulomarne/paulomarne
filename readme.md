@@ -50,11 +50,9 @@ I'm particularly interested in web development, artificial intelligence, and dat
 <br>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/roshis-rai/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="roshis-rai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/23743698/roshis-rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="roshis-rai" height="30" width="40" /></a>
- <a href="https://twitter.com/paulomarne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="RoshisRai" height="30" width="40" /></a>
-<a href="https://instagram.com/awai.roshhh__" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awai.roshhh__" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@paulomarne" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="roshis rai" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/paulo-b-8a42b5321/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paulomarne" height="30" width="40" /></a>
+<a href="https://instagram.com/paulomarnejr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="awai.roshhh__" height="30" width="40" /></a>
+<a href="https://www.youtube.com/paulomarne" target="blank"><img align="center" src="https://raw.githubusercontent.com/paulomarne/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="Paulo Marne" height="30" width="40" /></a>
  <!-- <a href="https://fb.com/roshis.rai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="roshis-rai" height="30" width="40" /></a> -->
 </p>
 <br>
