@@ -99,42 +99,4 @@ I'm particularly interested in web development, artificial intelligence, and dat
 
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
 
-<h3 align="left">Trophy:</h3>
-
-<p align="center">
-<img src="https://media.tenor.com/0ENB5HuTH0gAAAAi/trophy-beker.gif"  width="100px" height="100px"></p>
-  
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RoshisRai&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=MultiLanguage,Commits,PullRequest,Reviews">
- </div>
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=RoshisRai&theme=matrix&no-bg=true&no-frame=true&row=1&column=4&title=Repositories,Organizations,Stars,Followers">
- </div>
- <br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">GitHub Stats:</h3>
-<div align="center">
- 
-</div>
-
-<br><br>
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Activity:</h3>
-
-<br><br>
-<!--
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
-<h3 align="left">Achievements:</h3>
-
-[![An image of @roshisrai's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/roshisrai)](https://holopin.io/@roshisrai)
-<br><br><br>-->
-
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="100%">
-
 <img src="https://www.viralpep.com/wp-content/uploads/2024/01/social-media-collaboration-tool.gif" width="70"> <em><b>&nbsp; I love connecting with different people</b> so feel free to say <b>hi! I'd love to get to know you better.</b> :)</em>
