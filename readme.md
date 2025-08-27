@@ -37,15 +37,11 @@ I'm particularly interested in web development, artificial intelligence, and dat
 
 - 🌱 I’m currently learning **AI LM Developer**
 
-<!--- 👨‍💻 All of my projects are available at [roshis's workspace](http://roshis.io)-->
-
 - 💬 Ask me about **Architect / Tech Lead / Developer AI**
 
 - 📫 How to reach me **paulomarne@gmail.com**
 
-<!--- 📄 Know about my experiences [my experiences](http://roshis.io/#resume)-->
 
-- ⚡ Fun fact **I know card magic tricks ♠️**
 
 <br>
 <h3 align="left">Connect with me:</h3>
